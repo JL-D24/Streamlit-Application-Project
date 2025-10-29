@@ -2,7 +2,7 @@
                                             
    Creation of a Streamlit application using Python. The objectives of this project are as follows: 
 
- (1) The first step is the data management phase, carried out on jupyter_notebook with Pandas : 
+ (1) The first step is the data management phase, carried out on vs code with Pandas : 
       
               - Analysis and cleaning of the dataset: Commodities-Futures-Collection
              
