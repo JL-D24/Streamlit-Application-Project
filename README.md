@@ -1,2 +1,13 @@
-# streamlit-app
-""" Cette application rentre dans le cadre de cours data management qui nous a permis de réaliser un projet sur un jeu de données innovantes. De notre côté, nous avons fixé l’objectif d’étudier les fluctuations des COMMODITIES FUTURES sur le marchés financiers dans ses différents contrats. """
+                                             # Streamlit Application Project
+                                            
+   Creation of a Streamlit application using Python. The objectives of this project are as follows: 
+
+ (1) The first step is the data management phase, carried out on jupyter_notebook with Pandas : 
+      
+              - Analysis and cleaning of the dataset: Commodities-Futures-Collection
+             
+              - Data export for visualization and analysis.
+              
+  (2) The second step is the data visualization phase, performed on the exported data:
+      
+              - Statistical calculations and trend visualization with Numpy, Scipy, Matplot.
